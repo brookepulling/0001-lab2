@@ -1,0 +1,4 @@
+N1 N2 6 arterial 3
+N2 N3 4 highway 2
+N3 N4 10 arterial 1
+N4 N5 1 toll 2
